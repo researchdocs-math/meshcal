@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the numerical experiments."
+type: software
+title: "Meshcal: mesh-aware conformal calibration"
+version: 1.0.0
+date-released: 2026-10-01
+license: MIT
+authors:
+  - family-names: Yavas
+    given-names: Cemil Emre
+    orcid: "https://orcid.org/0009-0006-9552-1731"
+    affiliation: "School of Computing, Georgia Southern University"
+  - family-names: Mead
+    given-names: Nancy R.
+    orcid: "https://orcid.org/0000-0002-2919-086X"
+    affiliation: "Software and Societal Systems Department, Carnegie Mellon University"
+  - family-names: Chen
+    given-names: Lei
+    orcid: "https://orcid.org/0000-0002-3919-8056"
+    affiliation: "School of Computing, Georgia Southern University"
+keywords:
+  - conformal prediction
+  - finite elements
+  - discretization error
+  - adaptive calibration

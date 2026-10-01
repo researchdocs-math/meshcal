@@ -1,0 +1,19 @@
+{
+  "square": {
+    "max_uniform_relative_residual": 2.8486192825471782e-11,
+    "max_reference_residual_l2": 7.642988515055838e-12,
+    "mean_rank_work_ratio_reference": 0.19948979582460352
+  },
+  "notch": {
+    "max_uniform_relative_residual": 2.161511919964024e-11,
+    "max_reference_residual_l2": 3.335743723065602e-11,
+    "mean_rank_work_ratio_reference": 0.3662317585747001
+  },
+  "hole": {
+    "max_uniform_relative_residual": 2.2257433706184307e-11,
+    "max_reference_residual_l2": 1.2682184825951326e-12,
+    "mean_rank_work_ratio_reference": 0.5329440091279758
+  },
+  "database_primal_dual_pairs": 134532,
+  "metrics_rows": 2430
+}

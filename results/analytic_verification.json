@@ -1,0 +1,74 @@
+[
+  {
+    "lower": 0.033423031077665435,
+    "upper": 0.035907820159313736,
+    "seconds": 0.003502916995785199,
+    "primal_dofs": 81,
+    "flux_dofs": 208,
+    "triangles": 128,
+    "residual": 3.9968028886505635e-15,
+    "n": 8,
+    "exact_series_lower": 0.03514425373560231,
+    "exact_series_upper": 0.035144277868875785
+  },
+  {
+    "lower": 0.034702752313895704,
+    "upper": 0.03534463728401914,
+    "seconds": 0.007901166987721808,
+    "primal_dofs": 289,
+    "flux_dofs": 800,
+    "triangles": 512,
+    "residual": 2.864375403532904e-14,
+    "n": 16,
+    "exact_series_lower": 0.03514425373560231,
+    "exact_series_upper": 0.035144277868875785
+  },
+  {
+    "lower": 0.03503301954217407,
+    "upper": 0.035195102270832626,
+    "seconds": 0.01663862500572577,
+    "primal_dofs": 1089,
+    "flux_dofs": 3136,
+    "triangles": 2048,
+    "residual": 2.1338486533295509e-13,
+    "n": 32,
+    "exact_series_lower": 0.03514425373560231,
+    "exact_series_upper": 0.035144277868875785
+  },
+  {
+    "lower": 0.03511638162894773,
+    "upper": 0.03515702279925153,
+    "seconds": 0.09294062500703149,
+    "primal_dofs": 4225,
+    "flux_dofs": 12416,
+    "triangles": 8192,
+    "residual": 1.3011813848606835e-12,
+    "n": 64,
+    "exact_series_lower": 0.03514425373560231,
+    "exact_series_upper": 0.035144277868875785
+  },
+  {
+    "lower": 0.03513728112202483,
+    "upper": 0.035147450178689074,
+    "seconds": 0.917397458004416,
+    "primal_dofs": 16641,
+    "flux_dofs": 49408,
+    "triangles": 32768,
+    "residual": 7.322142892007832e-12,
+    "n": 128,
+    "exact_series_lower": 0.03514425373560231,
+    "exact_series_upper": 0.035144277868875785
+  },
+  {
+    "lower": 0.035142510259234046,
+    "upper": 0.03514505314822053,
+    "seconds": 10.735218792004162,
+    "primal_dofs": 66049,
+    "flux_dofs": 197120,
+    "triangles": 131072,
+    "residual": 7.543610180960059e-11,
+    "n": 256,
+    "exact_series_lower": 0.03514425373560231,
+    "exact_series_upper": 0.035144277868875785
+  }
+]

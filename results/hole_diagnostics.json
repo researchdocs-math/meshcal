@@ -1,0 +1,18 @@
+{
+  "coarse": {
+    "test_log_rmse_reference_midpoint": 0.19677483412911584,
+    "test_log_mae_reference_midpoint": 0.19651666469418097
+  },
+  "midpoint": {
+    "test_log_rmse_reference_midpoint": 0.0036757004407846168,
+    "test_log_mae_reference_midpoint": 0.002477121475656078
+  },
+  "neural": {
+    "test_log_rmse_reference_midpoint": 0.009613732651579738,
+    "test_log_mae_reference_midpoint": 0.005665087708014859
+  },
+  "test_reference_log_gap": {
+    "median": 8.754177706560284e-05,
+    "max": 0.00010310228923104958
+  }
+}

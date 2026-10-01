@@ -1,0 +1,7 @@
+{
+  "workers": 12,
+  "replicates": 2,
+  "wall_seconds": 237.21567929199955,
+  "simultaneous_runs": true,
+  "space_construction_timed": false
+}

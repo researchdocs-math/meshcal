@@ -1,0 +1,28 @@
+{
+  "seed_base": 720026,
+  "workers": 12,
+  "replicates": 30,
+  "ncal": 199,
+  "ntest": 2000,
+  "ntrain": 512,
+  "levels": [
+    8,
+    16,
+    32,
+    64,
+    128
+  ],
+  "fields": [
+    "lower",
+    "upper",
+    "seconds",
+    "primal_dofs",
+    "flux_dofs",
+    "triangles",
+    "residual"
+  ],
+  "wall_seconds": 1320.304060082999,
+  "platform": "macOS-14.8.1-arm64-arm-64bit",
+  "python": "3.12.1",
+  "machine": "arm64"
+}

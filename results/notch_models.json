@@ -1,0 +1,36 @@
+{
+  "coarse": {
+    "kernel": "2.07**2 * RBF(length_scale=[2.58, 3.72, 2.81, 20, 3.16, 3.08])",
+    "hyperparameters": [
+      1.4525688120586728,
+      0.9466783188420558,
+      1.312425738878507,
+      1.0327425053470685,
+      2.995732273553991,
+      1.1492971908606717,
+      1.1252562378659776
+    ],
+    "training_seconds": 5.731357583004865,
+    "warnings": [
+      "The optimal value found for dimension 3 of parameter k2__length_scale is close to the specified upper bound 20.0. Increasing the bound and calling fit again may find a better value."
+    ],
+    "log_rmse_midpoint_reference": 0.15188424569251052
+  },
+  "midpoint": {
+    "kernel": "2.06**2 * RBF(length_scale=[2.73, 3.75, 2.87, 20, 3.07, 2.98])",
+    "hyperparameters": [
+      1.4419763595172852,
+      1.0048430369851522,
+      1.3208244983551831,
+      1.0548439198006871,
+      2.995732273553991,
+      1.122442002171543,
+      1.0925611711716736
+    ],
+    "training_seconds": 4.859373625004082,
+    "warnings": [
+      "The optimal value found for dimension 3 of parameter k2__length_scale is close to the specified upper bound 20.0. Increasing the bound and calling fit again may find a better value."
+    ],
+    "log_rmse_midpoint_reference": 0.0023173813453626533
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "square_coarse": 9.512820309254266e-09,
+  "square_midpoint": 8.335403922643536e-09,
+  "square_neural": 0.0,
+  "notch_coarse": 3.7208929271059787e-09,
+  "notch_midpoint": 3.88615939428405e-09,
+  "notch_neural": 0.0,
+  "hole_coarse": 4.8758921344926875e-09,
+  "hole_midpoint": 4.6915893392451835e-09,
+  "hole_neural": 0.0
+}

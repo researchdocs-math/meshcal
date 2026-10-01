@@ -1,0 +1,34 @@
+{
+  "coarse": {
+    "kernel": "3.46**2 * RBF(length_scale=[3.82, 4.52, 3.48, 3.67, 3.32, 3.33])",
+    "hyperparameters": [
+      2.48329125882017,
+      1.3404139223040477,
+      1.509600924299559,
+      1.2483305787987102,
+      1.3012508498097013,
+      1.2007815674504227,
+      1.203117238576244
+    ],
+    "training_seconds": 6.723906792001799,
+    "warnings": [],
+    "log_rmse_midpoint_reference": 0.08789453267440532
+  },
+  "midpoint": {
+    "kernel": "3.31**2 * RBF(length_scale=[3.8, 4.45, 3.52, 3.65, 3.25, 3.21])",
+    "hyperparameters": [
+      2.395848669987437,
+      1.3344336979038887,
+      1.4919125613783377,
+      1.2575279260896453,
+      1.2944394997352946,
+      1.1798666859700595,
+      1.1668054803593604
+    ],
+    "training_seconds": 8.38826379099919,
+    "warnings": [
+      "lbfgs failed to converge (status=2):\nABNORMAL_TERMINATION_IN_LNSRCH.\n\nIncrease the number of iterations (max_iter) or scale the data as shown in:\n    https://scikit-learn.org/stable/modules/preprocessing.html"
+    ],
+    "log_rmse_midpoint_reference": 0.0026703002329665224
+  }
+}
